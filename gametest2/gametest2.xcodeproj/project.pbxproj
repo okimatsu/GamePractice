@@ -15,6 +15,7 @@
 		CE7A831D20E22A62002C53B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE7A831C20E22A62002C53B1 /* Assets.xcassets */; };
 		CE7A832020E22A62002C53B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE7A831E20E22A62002C53B1 /* LaunchScreen.storyboard */; };
 		CE7A832820E22B0C002C53B1 /* MyScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = CE7A832720E22B0C002C53B1 /* MyScene.sks */; };
+		CEF0124D20E4982300301259 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF0124C20E4982300301259 /* File.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		CE7A831F20E22A62002C53B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE7A832120E22A62002C53B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CE7A832720E22B0C002C53B1 /* MyScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyScene.sks; sourceTree = "<group>"; };
+		CEF0124C20E4982300301259 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				CE7A831720E22A5F002C53B1 /* GameViewController.swift */,
 				CE7A831920E22A5F002C53B1 /* Main.storyboard */,
 				CE7A831C20E22A62002C53B1 /* Assets.xcassets */,
+				CEF0124C20E4982300301259 /* File.swift */,
 				CE7A831E20E22A62002C53B1 /* LaunchScreen.storyboard */,
 				CE7A832120E22A62002C53B1 /* Info.plist */,
 			);
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE7A831620E22A5F002C53B1 /* GameScene.swift in Sources */,
+				CEF0124D20E4982300301259 /* File.swift in Sources */,
 				CE7A831820E22A5F002C53B1 /* GameViewController.swift in Sources */,
 				CE7A831020E22A5F002C53B1 /* AppDelegate.swift in Sources */,
 			);
